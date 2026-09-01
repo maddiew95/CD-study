@@ -1,6 +1,7 @@
 # Folders
 CSV_Files
 New_Data
+__pycache__
 
 # File formats
 *.png
