@@ -14,3 +14,4 @@ pillow
 torcheval
 jupyter
 river
+xgboost
